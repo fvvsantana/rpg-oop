@@ -1,0 +1,7 @@
+*.pro
+*.pro.user
+.depend
+rpg_cpp2
+screenplay.txt
+obj/
+poo_trab1.pdf
